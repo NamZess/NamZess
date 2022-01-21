@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nazar
-- 👀 I’m interested in web developer
+- 👀 I’m interested in web developing
 - 🌱 I’m currently learning
 
 <!---
